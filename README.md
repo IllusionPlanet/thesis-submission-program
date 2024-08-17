@@ -1,2 +1,11 @@
-# thesis-submission-program
-#11 毕业论文提交程序
+类型：简易程序
+
+开发环境：Visual Studio
+
+技术栈：C++，MFC，Access
+
+时间：2021/12（大三秋季）
+
+人员：5人团队
+
+课程：互联网开发技术
